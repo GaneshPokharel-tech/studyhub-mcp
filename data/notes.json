@@ -1,0 +1,6 @@
+[
+  {
+    "topic": "MCP Persistence",
+    "content": "This note should remain even after the MCP server process stops."
+  }
+]
